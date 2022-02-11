@@ -15,7 +15,7 @@ opencensus==0.7.7
 opencensus-context==0.1.1
 opencensus-ext-azure==1.0.2
 pika==1.1.0
-protobuf==3.11.3
+protobuf==3.15.0
 psutil==5.7.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
